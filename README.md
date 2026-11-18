@@ -5,6 +5,7 @@
 **Desarrollador Full Stack Junior · Estudiante de 2º de DAW**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hazsy.github.io-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hazsy.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Óscar_López_Pellicer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-l%C3%B3pez-pellicer-ba0a9a43b/)
 [![Email](https://img.shields.io/badge/Email-oscarlopezpellicer6@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oscarlopezpellicer6@gmail.com)
 [![Ubicación](https://img.shields.io/badge/Murcia-España-1e40af?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
